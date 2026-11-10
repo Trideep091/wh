@@ -148,5 +148,6 @@ The tabs use the **radio button hack**, with no JavaScript involved:
 ## Author
 
 **Trideep Chakraborty**
+<br>
 GitHub: [https://github.com/Trideep091]
 
