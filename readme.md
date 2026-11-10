@@ -142,29 +142,11 @@ The tabs use the **radio button hack**, with no JavaScript involved:
 - Add meaningful `alt` text to images for accessibility
 - Add a descriptive `<title>` in place of "Document"
 
----
-
-## Contributing
-
-Suggestions and pull requests are welcome.
-
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/my-feature`)
-3. Commit your changes (`git commit -m "Add my feature"`)
-4. Push to the branch (`git push origin feature/my-feature`)
-5. Open a pull request
-
----
-
-## License
-
-This project is available under the [MIT License](LICENSE). Add a `LICENSE` file to the repo, or change this section to the license you prefer.
 
 ---
 
 ## Author
 
-**Your Name**
-GitHub: [@your-username](https://github.com/your-username)
+**Trideep Chakraborty**
+GitHub: [https://github.com/Trideep091]
 
-If you found this project helpful, consider giving it a star.
